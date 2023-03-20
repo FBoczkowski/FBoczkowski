@@ -1,5 +1,5 @@
 ### Hi there, I'm  Filip👋
-## Python Develeoper/Software Tester
+
 
 - 💻 Current job position -> Lab Administrator
 - 📈 I’m currently learning -> Python
