@@ -1,7 +1,7 @@
 ### Hi there, I'm  Filip👋
 
 
-- 💻 Current job position -> Lab Administrator
+- 💻 Current job position -> Test Engineer
 - 📈 I’m currently learning -> Python
 - 🎓 Studying -> Mentoring in Devs-Mentoring
   - [] Bachelor of Science degree in Engineering and Industrial Process Management (thesis defense)
